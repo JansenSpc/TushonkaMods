@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "debug": false,
+  "armorMaterials": {
+    "Aramid": 1.0,
+    "UHMWPE": 1.0,
+    "Combined": 1.0,
+    "Titan": 1.0,
+    "Aluminium": 1.0,
+    "ArmoredSteel": 1.0,
+    "Ceramic": 1.0,
+    "Glass": 1.0
+  }
+}
