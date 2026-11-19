@@ -1,0 +1,849 @@
+{
+  "enabled": true,
+  "debug": false,
+  "bots": {
+    "arenafighterevent": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 45,
+          "Chest": 160,
+          "Stomach": 130,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "assault": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 30,
+          "Chest": 80,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 60,
+          "RightLeg": 60
+        },
+        {
+          "Head": 30,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        },
+        {
+          "Head": 30,
+          "Chest": 100,
+          "Stomach": 100,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 80,
+          "RightLeg": 80
+        }
+      ]
+    },
+    "bear": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "bossboar": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 85,
+          "Chest": 355,
+          "Stomach": 260,
+          "LeftArm": 150,
+          "RightArm": 150,
+          "LeftLeg": 150,
+          "RightLeg": 150
+        }
+      ]
+    },
+    "bossboarsniper": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 50,
+          "Chest": 140,
+          "Stomach": 120,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 100,
+          "RightLeg": 100
+        }
+      ]
+    },
+    "bossbully": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 62,
+          "Chest": 145,
+          "Stomach": 125,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "bossgluhar": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 220,
+          "Stomach": 140,
+          "LeftArm": 145,
+          "RightArm": 145,
+          "LeftLeg": 145,
+          "RightLeg": 145
+        }
+      ]
+    },
+    "bosskilla": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 210,
+          "Stomach": 170,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 120,
+          "RightLeg": 120
+        }
+      ]
+    },
+    "bosskillaagro": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 80,
+          "Chest": 260,
+          "Stomach": 180,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 120,
+          "RightLeg": 120
+        }
+      ]
+    },
+    "bossknight": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 80,
+          "Chest": 220,
+          "Stomach": 220,
+          "LeftArm": 150,
+          "RightArm": 150,
+          "LeftLeg": 150,
+          "RightLeg": 150
+        }
+      ]
+    },
+    "bosskojaniy": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 62,
+          "Chest": 180,
+          "Stomach": 150,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "bosskolontay": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 65,
+          "Chest": 300,
+          "Stomach": 150,
+          "LeftArm": 150,
+          "RightArm": 150,
+          "LeftLeg": 120,
+          "RightLeg": 120
+        }
+      ]
+    },
+    "bosspartisan": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 80,
+          "Chest": 220,
+          "Stomach": 190,
+          "LeftArm": 110,
+          "RightArm": 110,
+          "LeftLeg": 120,
+          "RightLeg": 120
+        }
+      ]
+    },
+    "bosssanitar": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 360,
+          "Stomach": 140,
+          "LeftArm": 120,
+          "RightArm": 120,
+          "LeftLeg": 230,
+          "RightLeg": 230
+        }
+      ]
+    },
+    "bosstagilla": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 100,
+          "Chest": 320,
+          "Stomach": 260,
+          "LeftArm": 130,
+          "RightArm": 130,
+          "LeftLeg": 140,
+          "RightLeg": 140
+        }
+      ]
+    },
+    "bosstagillaagro": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 105,
+          "Chest": 360,
+          "Stomach": 280,
+          "LeftArm": 140,
+          "RightArm": 140,
+          "LeftLeg": 140,
+          "RightLeg": 140
+        }
+      ]
+    },
+    "bosszryachiy": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 175,
+          "Chest": 450,
+          "Stomach": 270,
+          "LeftArm": 190,
+          "RightArm": 190,
+          "LeftLeg": 190,
+          "RightLeg": 190
+        }
+      ]
+    },
+    "crazyassaultevent": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 100,
+          "Stomach": 100,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 80,
+          "RightLeg": 80
+        },
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "cursedassault": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 100,
+          "Stomach": 100,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 80,
+          "RightLeg": 80
+        },
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "exusec": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 180,
+          "Stomach": 130,
+          "LeftArm": 105,
+          "RightArm": 105,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "followerbigpipe": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 220,
+          "Stomach": 200,
+          "LeftArm": 110,
+          "RightArm": 110,
+          "LeftLeg": 100,
+          "RightLeg": 100
+        }
+      ]
+    },
+    "followerbirdeye": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 175,
+          "Stomach": 150,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 100,
+          "RightLeg": 100
+        }
+      ]
+    },
+    "followerboar": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 55,
+          "Chest": 150,
+          "Stomach": 120,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 100,
+          "RightLeg": 100
+        }
+      ]
+    },
+    "followerboarclose1": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 255,
+          "Stomach": 225,
+          "LeftArm": 120,
+          "RightArm": 120,
+          "LeftLeg": 120,
+          "RightLeg": 120
+        }
+      ]
+    },
+    "followerboarclose2": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 255,
+          "Stomach": 225,
+          "LeftArm": 120,
+          "RightArm": 120,
+          "LeftLeg": 120,
+          "RightLeg": 120
+        }
+      ]
+    },
+    "followerbully": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 50,
+          "Chest": 140,
+          "Stomach": 110,
+          "LeftArm": 80,
+          "RightArm": 80,
+          "LeftLeg": 85,
+          "RightLeg": 85
+        }
+      ]
+    },
+    "followergluharassault": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 45,
+          "Chest": 150,
+          "Stomach": 125,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 120,
+          "RightLeg": 120
+        }
+      ]
+    },
+    "followergluharscout": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 40,
+          "Chest": 140,
+          "Stomach": 100,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 80,
+          "RightLeg": 80
+        }
+      ]
+    },
+    "followergluharsecurity": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 41,
+          "Chest": 180,
+          "Stomach": 125,
+          "LeftArm": 115,
+          "RightArm": 115,
+          "LeftLeg": 115,
+          "RightLeg": 115
+        }
+      ]
+    },
+    "followerkojaniy": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 62,
+          "Chest": 138,
+          "Stomach": 120,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "followerkolontayassault": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 50,
+          "Chest": 170,
+          "Stomach": 130,
+          "LeftArm": 110,
+          "RightArm": 110,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "followerkolontaysecurity": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 55,
+          "Chest": 180,
+          "Stomach": 130,
+          "LeftArm": 120,
+          "RightArm": 120,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "followersanitar": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 55,
+          "Chest": 200,
+          "Stomach": 180,
+          "LeftArm": 140,
+          "RightArm": 140,
+          "LeftLeg": 170,
+          "RightLeg": 170
+        }
+      ]
+    },
+    "followerzryachiy": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 125,
+          "Chest": 360,
+          "Stomach": 220,
+          "LeftArm": 150,
+          "RightArm": 150,
+          "LeftLeg": 150,
+          "RightLeg": 150
+        }
+      ]
+    },
+    "gifter": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 80,
+          "Chest": 280,
+          "Stomach": 180,
+          "LeftArm": 120,
+          "RightArm": 120,
+          "LeftLeg": 130,
+          "RightLeg": 130
+        }
+      ]
+    },
+    "infectedassault": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 10,
+          "Chest": 180,
+          "Stomach": 170,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 70,
+          "RightLeg": 70
+        }
+      ]
+    },
+    "infectedcivil": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 10,
+          "Chest": 180,
+          "Stomach": 170,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 70,
+          "RightLeg": 70
+        }
+      ]
+    },
+    "infectedlaborant": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 10,
+          "Chest": 180,
+          "Stomach": 170,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 70,
+          "RightLeg": 70
+        }
+      ]
+    },
+    "infectedpmc": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 10,
+          "Chest": 180,
+          "Stomach": 170,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 70,
+          "RightLeg": 70
+        }
+      ]
+    },
+    "infectedtagilla": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 130,
+          "Chest": 450,
+          "Stomach": 350,
+          "LeftArm": 150,
+          "RightArm": 150,
+          "LeftLeg": 150,
+          "RightLeg": 150
+        }
+      ]
+    },
+    "marksman": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 30,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 60,
+          "RightLeg": 60
+        },
+        {
+          "Head": 30,
+          "Chest": 90,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "peacemaker": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 100,
+          "Stomach": 100,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 80,
+          "RightLeg": 80
+        }
+      ]
+    },
+    "pmcbear": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "pmcbot": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 160,
+          "Stomach": 130,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "pmcusec": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "ravangezryachiyevent": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 9999,
+          "Chest": 9999,
+          "Stomach": 6666,
+          "LeftArm": 6666,
+          "RightArm": 6666,
+          "LeftLeg": 6666,
+          "RightLeg": 6666
+        }
+      ]
+    },
+    "sectantoni": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 70,
+          "Chest": 220,
+          "Stomach": 200,
+          "LeftArm": 120,
+          "RightArm": 120,
+          "LeftLeg": 100,
+          "RightLeg": 100
+        }
+      ]
+    },
+    "sectantpredvestnik": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 50,
+          "Chest": 255,
+          "Stomach": 210,
+          "LeftArm": 160,
+          "RightArm": 160,
+          "LeftLeg": 130,
+          "RightLeg": 130
+        }
+      ]
+    },
+    "sectantpriest": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 50,
+          "Chest": 200,
+          "Stomach": 200,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 100,
+          "RightLeg": 100
+        }
+      ]
+    },
+    "sectantprizrak": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 80,
+          "Chest": 220,
+          "Stomach": 200,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 130,
+          "RightLeg": 130
+        }
+      ]
+    },
+    "sectantwarrior": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 50,
+          "Chest": 220,
+          "Stomach": 180,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 100,
+          "RightLeg": 100
+        }
+      ]
+    },
+    "shooterbtr": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "skier": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 100,
+          "Stomach": 100,
+          "LeftArm": 70,
+          "RightArm": 70,
+          "LeftLeg": 80,
+          "RightLeg": 80
+        }
+      ]
+    },
+    "spiritspring": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 42,
+          "Chest": 160,
+          "Stomach": 130,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "spiritwinter": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 42,
+          "Chest": 160,
+          "Stomach": 130,
+          "LeftArm": 100,
+          "RightArm": 100,
+          "LeftLeg": 110,
+          "RightLeg": 110
+        }
+      ]
+    },
+    "tagillahelperagro": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    },
+    "usec": {
+      "enabled": false,
+      "BodyParts": [
+        {
+          "Head": 35,
+          "Chest": 85,
+          "Stomach": 70,
+          "LeftArm": 60,
+          "RightArm": 60,
+          "LeftLeg": 65,
+          "RightLeg": 65
+        }
+      ]
+    }
+  }
+}
